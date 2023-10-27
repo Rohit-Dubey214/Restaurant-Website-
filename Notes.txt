@@ -1,0 +1,7 @@
+As my mother name is "ASHA" so restaurant name is "Hope's Restaurant".
+As restaurant based on Uttar pradesh so add some local dish in our menu.
+On home page tried to add button below the image but not able to do so do it as per my idea.
+There is 2 Css sheet added as I am trying to styling all html page in css but it applied on all html page.
+Some pictures are not availble on umsplash so found from another resources.
+mentioned comments in css sheet that from which point to which point styling done for which page.
+About us, contact us, our menu all option mentioned on TOP of the page.
