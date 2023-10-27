@@ -2,4 +2,8 @@
 Author - Rohit Dubey<br><br>
 Welcome to the README file for the Restaurant Website project.<br><br>
 Description<br><br>
-This project is a website for our restaurant, designed to showcase our menu, location, and other relevant information. It provides an easy way for customers to view our offerings, make reservations, and find our contact details.
+This project is a website for our restaurant, designed to showcase our menu, location, and other relevant information. It provides an easy way for customers to view our offerings, make reservations, and find our contact details.<br><br>
+Technologies Used<br><br>
+HTML5<br>
+CSS3<br>
+Bootstrap
